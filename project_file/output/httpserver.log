@@ -1,0 +1,4 @@
+nohup: ignoring input
+[INFO] [1686812320] [loop begin...] [http_server.hpp] [34]
+[INFO] [1686812320] [create socket success...] [tcp_server.hpp] [67]
+[FATAL] [1686812320] [bind error!] [tcp_server.hpp] [78]
